@@ -1,0 +1,56 @@
+div {
+    padding: 30px 0;
+}
+.A {
+    background-color: #C8377B;
+    text-align: center;
+    color: #FCFBFE;
+}
+
+.btn {
+    text-align: center;
+}
+
+.B {
+    background-color: #00A2FF;
+    height: 400px;
+}
+
+.noPad {
+    padding: 0px 0
+}
+
+.interestBottom {
+    border-width: 0 ;
+    width: 100px;
+    height: 100px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+
+.yellowBorder {
+    border-style: solid;
+    border-color: yellow;
+    border-width: 5px;
+    border-radius: 5px;
+}
+
+.pickBorder {
+    border-style: solid;
+    border-color:#C8377B;
+    border-width: 10px;
+    border-radius: 5px;
+
+}
+
+.checkpoint {
+    background-color: #6C757D;
+    color: white;
+    width: 120px;
+    height: 36px;
+}
